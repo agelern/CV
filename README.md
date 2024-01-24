@@ -86,7 +86,7 @@ At US Welding, a miscalculation when filling containers could result in explosio
 
 #### University of Colorado (Aug. 2009 - May 2015)
 
-- BFA, Portraiture
+- BFA - Portraiture
 - Participated in numerous art shows across Denver, CO
 - Awarded best in show for "Make Denver Beautiful" art campaign
 
