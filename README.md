@@ -1,6 +1,6 @@
-## Your Name
+## Alex Gelernter
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm an easy-going team player with a love for all things creative and puzzling. I've quickly become adept at every field I've found myself in due to my love of learning. "Let me find out." is my favorite phrase. Tech excites me because it combines creativity and logic oh so beautifully. And because it offers an opportunity for near-infinite learning.
 
 ## Projects
 
