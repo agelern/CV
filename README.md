@@ -96,4 +96,4 @@ At US Welding, a miscalculation when filling containers could result in explosio
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Painting, Logic Puzzles, Digital Design, Custom PCs, Scale Model Making and Painting, Game Design (Physical and Digital)
