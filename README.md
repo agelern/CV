@@ -24,20 +24,20 @@ _Art Director_
 - Managed a company-wide artistic vision, ensuring cohesive design choices across multiple teams
 - Supported ad-hoc artists in asset creation, keeping the company on schedule even during hectic months
 
-**Twitch.tv** (Nov. 2021 - Sep. 2023)
+**Twitch.tv** (Nov. 2021 - Sep. 2023)  
 _Streamer_
 
 - Planned engaging content on a weekly basis, which led to steady audience growth
 - Performed live and interacted with site visitors for 8 hours at a time, 4 days a week
 - Created and demonstrated painting tutorials, inspiring others to pursue art
 
-**Colorado Department of Revenue** (May 2020 - Jun. 2021)
+**Colorado Department of Revenue** (May 2020 - Jun. 2021)  
 _Data Specialist_
 
 - Collaborated with a team of 6 to maintain and refine multiple databases with a >99% data accuracy rating
 - Assisted law enforcement agencies by providing relevant information within 2 minutes of any given query, allowing police/investigators to make better decisions and act quickly
 
-**United States Welding** (Oct. 2016 - Apr. 2020)
+**United States Welding** (Oct. 2016 - Apr. 2020)  
 _Plant Supervisor_
 
 - Led a team of 3 in asset tracking via barcode generation and database entry, which resulted in greater asset recovery rates
@@ -45,7 +45,7 @@ _Plant Supervisor_
 - Led a team of 10 in compressed gas production with a safety-first mindset. No major incidents occurred during my time
 - Ensured compliance internally and with regards to U.S. Food and Drug Administration
 
-**City Spirits Specialty Wine & Liquor** (Mar. 2013 - Aug. 2016)
+**City Spirits Specialty Wine & Liquor** (Mar. 2013 - Aug. 2016)  
 _Assistant Manager_
 
 - Selected and managed inventory of wines, beers, and spirits which allowed the shop to stay ahead of market trends
@@ -53,7 +53,7 @@ _Assistant Manager_
 - Hired, led, and scheduled a team of 5 people
 - Earned Level 1 Sommelier certification
 
-**GameStop** (May 2006 - Aug. 2009)
+**GameStop** (May 2006 - Aug. 2009)  
 _Game Advisor_
 
 - Provided knowledgeable assistance to customers
