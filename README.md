@@ -72,7 +72,7 @@ Every time I changed jobs, I made large pivots into entirely new sectors. This i
 
 #### Attention to Detail
 
-At US Welding, a miscalculation when filling containers could result in explosions. So I built a habit of triple checking every piece of my work at every step, which has stuck with me. At CDOR, the entire job was about report accuracy under pressure. And much of my work at Team Rex Games involved performing research on accessibility to ensure our visual products did not exclude anyone from enjoying our game. I had to predict problems before they arose.Looking ahead for potential issues and always having a general wariness has already served me well when coding and contributing to a project.
+At US Welding, a miscalculation when filling containers could result in explosions. So I built a habit of triple checking every piece of my work at every step, which has stuck with me. At CDOR, the entire job was about report accuracy under pressure. And much of my work at Team Rex Games involved performing research on accessibility to ensure our visual products did not exclude anyone from enjoying our game. I had to predict problems before they arose. Looking ahead for potential issues and always having a general wariness has already served me well when coding and contributing to projects.
 
 ## Education
 
