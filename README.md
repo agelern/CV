@@ -1,6 +1,6 @@
 ## Alex Gelernter
 
-I'm an easy-going team player with a love for all things creative and puzzling. I've quickly become adept at every field I've found myself in due to my love of learning. "Let me find out." is my favorite phrase. Tech excites me because it combines creativity and logic oh so beautifully. And because it offers an opportunity for near-infinite learning.
+I'm a natural people-person, seamlessly fitting into any team with a positive vibe and a knack for finding joy in everyday tasks. My love for learning has led me to master various fields, and my newfound passion for coding and data at Makers Academy has added an exciting dimension to my skill set. I'm genuinely thrilled to bring my diverse experiences to the table, ready to contribute, grow, and keep learning in any role!
 
 ## Projects
 
@@ -11,54 +11,48 @@ I'm an easy-going team player with a love for all things creative and puzzling. 
 
 ## Work Experience
 
-**Games Workshop LTD** (Nov. 2021 - Present)  
-_Relief Worker_
+**Self-Employed** (Jan. 2009 - Present)
+_Freelance Graphic Designer & Artist_
 
-- Kept up-to-date on product and market changes to be as knowledgable and helpful as possible
-- Drove sales through engagement of customers, suggestive selling, and sharing product knowledge
-
+- Delivered high-quality artistic creations, exceeding client expectations.
+- Cultivated positive connections with clients, resulting in repeat business and referrals.
+- Managed projects within budget constraints, leading to increased revenue and sustainable growth.
+  
 **Team Rex Games** (Jul. 2018 - Oct. 2023)  
 _Art Director_
 
-- Created visual assets, which led to our products being praised as gorgeous
-- Managed a company-wide artistic vision, ensuring cohesive design choices across multiple teams
-- Supported ad-hoc artists in asset creation, keeping the company on schedule even during hectic months
-
-**Twitch.tv** (Nov. 2021 - Sep. 2023)  
-_Streamer_
-
-- Planned engaging content on a weekly basis, which led to steady audience growth
-- Performed live and interacted with site visitors for 8 hours at a time, 4 days a week
-- Created and demonstrated painting tutorials, inspiring others to pursue art
+- Produced visually stunning assets, contributing to positive brand image and customer satisfaction.
+- Spearheaded company-wide artistic vision, ensuring unified design approach, fostering brand consistency.
 
 **Colorado Department of Revenue** (May 2020 - Jun. 2021)  
 _Data Specialist_
 
-- Collaborated with a team of 6 to maintain and refine multiple databases with a >99% data accuracy rating
-- Assisted law enforcement agencies by providing relevant information within 2 minutes of any given query, allowing police/investigators to make better decisions and act quickly
+- Adhered to stringent guidelines, maintaining impeccable records for compliance across government agencies.
+- Collaborated in a team of 6 to uphold databases, achieving >99% data accuracy, demonstrating dedication to data integrity.
+- Aided law enforcement agencies by promptly supplying pertinent information, enhancing operational effectiveness.
 
 **United States Welding** (Oct. 2016 - Apr. 2020)  
 _Plant Supervisor_
 
-- Led a team of 3 in asset tracking via barcode generation and database entry, which resulted in greater asset recovery rates
-- Collaborated across multiple departments on transportation logistics, improving response and delivery times for customers
-- Led a team of 10 in compressed gas production with a safety-first mindset. No major incidents occurred during my time
-- Ensured compliance internally and with regards to U.S. Food and Drug Administration
+- Directed barcode generation and database entry, improving asset recovery rates and organisational efficiency.
+- Collaborated across departments to optimise transportation logistics, enhancing customer satisfaction.
+- Led a safety-focused team in compressed gas production, achieving a commendable incident-free record.
+- Ensured strict adherence to internal protocols and FDA regulations, demonstrating commitment to quality assurance.
 
 **City Spirits Specialty Wine & Liquor** (Mar. 2013 - Aug. 2016)  
 _Assistant Manager_
 
-- Selected and managed inventory of wines, beers, and spirits which allowed the shop to stay ahead of market trends
-- Forged relationships with distributors and local producers, which led to joint events and cross-marketing
-- Hired, led, and scheduled a team of 5 people
+- Curated inventory, anticipating and capitalising on market trends.
+- Established partnerships, fostering collaborative events and cross-marketing initiatives.
+- Recruited, mentored, and coordinated a team of 5 for seamless operations.
 - Earned Level 1 Sommelier certification
 
 **GameStop** (May 2006 - Aug. 2009)  
 _Game Advisor_
 
-- Provided knowledgeable assistance to customers
-- Recommended appropriate GameStop services based on customer needs
-- General shopkeeping responsibilities: manage inventory, take payments, etc.
+- Provided informed assistance, ensuring a positive shopping experience.
+- Advised on suitable services, enhancing customers' gaming experience.
+- Executed shopkeeping responsibilities, contributing to smooth retail operations.
 
 ## Skills
 
