@@ -11,7 +11,7 @@ I'm a natural people-person, seamlessly fitting into any team with a positive vi
 
 ## Work Experience
 
-**Self-Employed** (Jan. 2009 - Present) 
+**Self-Employed** (Jan. 2009 - Present)  
 _Freelance Graphic Designer & Artist_
 
 - Delivered high-quality artistic creations, exceeding client expectations.
