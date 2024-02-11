@@ -58,15 +58,15 @@ _Game Advisor_
 
 #### Rapid Learning
 
-Every time I changed jobs, I made large pivots into entirely new sectors. This involved a lot of fast learning, which I thrive on! Between retail, teaching(via Twitch.tv), database management, and investigations assistance, all of my positions have involved amassing and dispensing knowledge. This means I'm very aware of when I don't know something, and all the ways I can remedy that situation. I feel confident I can contribute well to any development project because of this.
+Every time I changed jobs, I made large pivots into entirely new sectors. This involved a lot of fast learning, which I thrive on! Between retail, database management, and investigations assistance, all of my positions have involved amassing and dispensing knowledge. This means I'm very aware of when I don't know something, and all the ways I can remedy that situation. I feel confident I can contribute well to any development project because of this.
 
 #### Communication & Conflict Resolution
 
-9 combined years in retail. Need I say more? I will anyway! Retail work is all about convincing others, resolving conflicts, and ensuring good experiences for others. (Not necessarily in that order) This translates directly to communicating well with internal and external stakeholders, even in high-stress situations. At CDOR, I learned not just how to communicate well, but how to do so quickly. We had a < 2 min turnaround time for any written responses to enquiries, and I maintained a 99% information accuracy rating while staying in that time limit. My time as a professional streamer taught me the importance of understanding the audience to more effectively get a message across. This all adds up to mean I feel comfortable in almost any position on any team, facing inward or outward.
+Retail work is all about convincing others, resolving conflicts, and ensuring good experiences for others. (Not necessarily in that order) This translates directly to communicating well with internal and external stakeholders, even in high-stress situations. At CDOR, I learned not just how to communicate well, but how to do so quickly. We had a < 2 min turnaround time for any written responses to enquiries, and I maintained a 99% information accuracy rating while staying in that time limit. This all adds up to mean I feel comfortable in almost any position on any team, facing inward or outward.
 
 #### Attention to Detail
 
-At US Welding, a miscalculation when filling containers could result in explosions. So I built a habit of triple checking every piece of my work at every step, which has stuck with me. At CDOR, the entire job was about report accuracy under pressure. And much of my work at Team Rex Games involved performing research on accessibility to ensure our visual products did not exclude anyone from enjoying our game. I had to predict problems before they arose. Looking ahead for potential issues and always having a general wariness has already served me well when coding and contributing to projects.
+At US Welding, a miscalculation when filling containers could result in literal explosions. So I built a habit of triple checking every piece of my work at every step, which has stuck with me. At CDOR, the entire job was about report accuracy under pressure. And much of my work at Team Rex Games involved performing research on accessibility to ensure our visual products did not exclude anyone from enjoying our game. I had to predict problems before they arose. Looking ahead for potential issues and always having a general wariness has already served me well when coding and contributing to projects.
 
 ## Education
 
