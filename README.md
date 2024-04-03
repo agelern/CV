@@ -6,8 +6,24 @@ I'm a natural people-person, seamlessly fitting into any team with a positive vi
 
 | Name                               | Description                                                                    | Tech/tools                                                     |
 | ---------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------- |
-| **Live Data Pipeline**             | Live (1 sec) data pipeline connecting 20 RDS databases to a heroku dashboard   | Python, Psycopg2, AWS Lambda, AWS API Gateway, AWS Eventbridge |
-| **Magic: the Gathering(MTG) Tool** | CLI tool (webapp WIP) to help build MTG decks based on data from multiple APIs | Python, Psycopg2, Pandas, SQLalchemy, Flask, TheFuzz, RenderDB |
+| **Live Data Pipeline**             | Extracted live data from 20 databases, transformed it to distill key insights, and seamlessly fed the dynamic information into a real-time dashboard, ensuring data freshness within a 1-second window. | Python, Psycopg2, AWS Lambda, AWS API Gateway, AWS Eventbridge |
+| **Magic: the Gathering(MTG) Tool** | Input a list of Magic: The Gathering (MTG) cards, and this tool queries multiple resources, providing tailored deck-building recommendations based on card synergies, popularity, and strategic insights. Currently migrating to EC2 and learning to implement a web interface with React/Django. | Python, Psycopg2, Pandas, SQLalchemy, Flask, TheFuzz, RenderDB |
+
+Technical Skills: Python, GIT, Pandas, Jupyter, PostgreSQL, MySQL, Docker, HTML/CSS, Apache Airflow, Apache Kafka, Amazon Web Services (AWS), Flask, Django
+
+## Relevant Experience
+
+**Colorado Department of Revenue** (May 2020 - Jun. 2021)  
+_Data Specialist_
+
+- Adhered to stringent guidelines, maintaining impeccable records for compliance across government agencies.
+- Collaborated in a team of 6 to uphold databases, achieving >99% data accuracy, demonstrating dedication to data integrity.
+- Aided law enforcement agencies by promptly supplying pertinent information, enhancing operational effectiveness.
+
+**Data Engineering Bootcamp** (Sept. 2023 - Jan. 2024)  
+_Maker's Academy_
+
+Here I worked on a number of personal and team-based projects of increasing complexity. We made ample use of: Object Oriented Programming (OOP), Test-Driven Design (TDD), Model- View-Controller (MVC), Domain-Driven Design (DDD), Agile, Continuous Integration & Deployment (CICD), and Pair Programming
 
 ## Work Experience
 
@@ -23,13 +39,6 @@ _Art Director_
 
 - Produced visually stunning assets, contributing to positive brand image and customer satisfaction.
 - Spearheaded company-wide artistic vision, ensuring unified design approach, fostering brand consistency.
-
-**Colorado Department of Revenue** (May 2020 - Jun. 2021)  
-_Data Specialist_
-
-- Adhered to stringent guidelines, maintaining impeccable records for compliance across government agencies.
-- Collaborated in a team of 6 to uphold databases, achieving >99% data accuracy, demonstrating dedication to data integrity.
-- Aided law enforcement agencies by promptly supplying pertinent information, enhancing operational effectiveness.
 
 **United States Welding** (Oct. 2016 - Apr. 2020)  
 _Plant Supervisor_
@@ -47,13 +56,6 @@ _Assistant Manager_
 - Recruited, mentored, and coordinated a team of 5 for seamless operations.
 - Earned Level 1 Sommelier certification
 
-**GameStop** (May 2006 - Aug. 2009)  
-_Game Advisor_
-
-- Provided informed assistance, ensuring a positive shopping experience.
-- Advised on suitable services, enhancing customers' gaming experience.
-- Executed shopkeeping responsibilities, contributing to smooth retail operations.
-
 ## Skills
 
 #### Rapid Learning
@@ -69,14 +71,6 @@ Retail work is all about convincing others, resolving conflicts, and ensuring go
 At US Welding, a miscalculation when filling containers could result in literal explosions. So I built a habit of triple checking every piece of my work at every step, which has stuck with me. At CDOR, the entire job was about report accuracy under pressure. And much of my work at Team Rex Games involved performing research on accessibility to ensure our visual products did not exclude anyone from enjoying our game. I had to predict problems before they arose. Looking ahead for potential issues and always having a general wariness has already served me well when coding and contributing to projects.
 
 ## Education
-
-#### Makers Academy (Sep. 2023 - Jan. 2024)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Python, PostgreSQL, HTTP/CSS
-- Pandas, Psycopg2, Flask
-- AWS Lambda, Eventbridge, S3, RDS, API Gateway
 
 #### University of Colorado (Aug. 2009 - May 2015)
 
