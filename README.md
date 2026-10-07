@@ -1,87 +1,129 @@
-## Alex Gelernter
+# Alex Gelernter
 
-I'm a natural people-person, seamlessly fitting into any team with a positive vibe and a knack for finding joy in everyday tasks. My love for learning has led me to master various fields, and my newfound passion for coding and data at Makers Academy has added an exciting dimension to my skill set. I'm genuinely thrilled to bring my diverse experiences to the table, ready to contribute, grow, and keep learning in any role!
+## Data Engineer
 
-## Projects
+Data Engineer with experience building and supporting cloud-based data solutions using **Databricks, Python, PySpark, SQL and Azure**. Comfortable working across data ingestion, transformation, analysis, infrastructure and CI/CD, with a particular interest in reliable, maintainable data platforms.
 
-| Name                               | Description                                                                    | Tech/tools                                                     |
-| ---------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------- |
-| **Live Data Pipeline**             | Extracted live data from 20 databases, transformed it to distill key insights, and seamlessly fed the dynamic information into a real-time dashboard, ensuring data freshness within a 1-second window. | Python, Psycopg2, AWS Lambda, AWS API Gateway, AWS Eventbridge |
-| **Magic: the Gathering(MTG) Tool** | Input a list of Magic: The Gathering (MTG) cards, and this tool queries multiple resources, providing tailored deck-building recommendations based on card synergies, popularity, and strategic insights. Currently migrating to EC2 and learning to implement a web interface with React/Django. | Python, Psycopg2, Pandas, SQLalchemy, Flask, TheFuzz, RenderDB |
+Career changer with a broad professional background spanning data, government, engineering, creative industries and operations. Known for rapid learning, careful problem-solving and strong attention to detail.
 
-Technical Skills: Python, GIT, Pandas, Jupyter, PostgreSQL, MySQL, Docker, HTML/CSS, Apache Airflow, Apache Kafka, Amazon Web Services (AWS), Flask, Django
+## Technical Skills
 
-## Relevant Experience
+**Data Engineering:** Databricks, PySpark, Python, SQL, Pandas, PostgreSQL, MySQL
+**Cloud & Data Platforms:** Microsoft Azure, AWS, Azure Data Factory, AWS Lambda, Kafka
+**Infrastructure & DevOps:** Terraform, Azure DevOps, CI/CD, Git, Docker
+**Data & ML:** MLflow, XGBoost, scikit-learn, Jupyter
+**Other:** REST APIs, Apache Airflow, Power BI, Databricks Dashboards
 
-**Colorado Department of Revenue** (May 2020 - Jun. 2021)  
-_Data Specialist_
+## Professional Experience
 
-- Adhered to stringent guidelines, maintaining impeccable records for compliance across government agencies.
-- Collaborated in a team of 6 to uphold databases, achieving >99% data accuracy, demonstrating dedication to data integrity.
-- Aided law enforcement agencies by promptly supplying pertinent information, enhancing operational effectiveness.
+### Accenture — Data Engineering, Management & Governance Analyst
 
-**Data Engineering Bootcamp** (Sept. 2023 - Jan. 2024)  
-_Maker's Academy_
+**Sep. 2024 – Present**
 
-Here I worked on a number of personal and team-based projects of increasing complexity. We made ample use of: Object Oriented Programming (OOP), Test-Driven Design (TDD), Model- View-Controller (MVC), Domain-Driven Design (DDD), Agile, Continuous Integration & Deployment (CICD), and Pair Programming
+* Develop cloud-based data engineering solutions using **Databricks, Python, PySpark and SQL**, supporting data migration and transformation projects.
+* Build and maintain data pipelines integrating APIs, cloud storage and analytical platforms, including solutions using **Azure Data Factory and Databricks**.
+* Develop data transformation and processing frameworks designed for repeatable, maintainable engineering workflows.
+* Use **Terraform and Azure DevOps CI/CD** to support reproducible cloud infrastructure and automated software delivery.
+* Built a **Databricks proof-of-value machine learning solution** to model relationships between pricing changes and product demand, using Python, PySpark, XGBoost, scikit-learn and MLflow.
+* Work collaboratively to investigate technical issues, validate data and communicate solutions while adapting to unfamiliar client environments and technologies.
 
-## Work Experience
+### Colorado Department of Revenue — Data Specialist
 
-**Self-Employed** (Jan. 2009 - Present)  
-_Freelance Graphic Designer & Artist_
+**May 2020 – Jun. 2021**
 
-- Delivered high-quality artistic creations, exceeding client expectations.
-- Cultivated positive connections with clients, resulting in repeat business and referrals.
-- Managed projects within budget constraints, leading to increased revenue and sustainable growth.
-  
-**Team Rex Games** (Jul. 2018 - Oct. 2023)  
-_Art Director_
+* Maintained and validated sensitive government datasets, consistently achieving **over 99% information accuracy**.
+* Responded to time-critical data requests from government and law-enforcement organisations, working to a **two-minute response target** for written enquiries.
+* Investigated records across multiple databases to identify and provide accurate information under strict procedural and regulatory requirements.
+* Worked as part of a six-person team responsible for maintaining data quality and reliable information services.
 
-- Produced visually stunning assets, contributing to positive brand image and customer satisfaction.
-- Spearheaded company-wide artistic vision, ensuring unified design approach, fostering brand consistency.
+### Team Rex Games — Art Director
 
-**United States Welding** (Oct. 2016 - Apr. 2020)  
-_Plant Supervisor_
+**Jul. 2018 – Oct. 2023**
 
-- Directed barcode generation and database entry, improving asset recovery rates and organisational efficiency.
-- Collaborated across departments to optimise transportation logistics, enhancing customer satisfaction.
-- Led a safety-focused team in compressed gas production, achieving a commendable incident-free record.
-- Ensured strict adherence to internal protocols and FDA regulations, demonstrating commitment to quality assurance.
+* Led the visual direction of an independent games company, coordinating creative work across projects and maintaining consistent design standards.
+* Conducted detailed research and problem-solving to identify accessibility and usability issues before release.
+* Managed multiple concurrent projects while balancing technical, creative and business requirements.
+* Collaborated with a distributed team to turn broad requirements into practical, deliverable work.
 
-**City Spirits Specialty Wine & Liquor** (Mar. 2013 - Aug. 2016)  
-_Assistant Manager_
+### United States Welding — Plant Supervisor
 
-- Curated inventory, anticipating and capitalising on market trends.
-- Established partnerships, fostering collaborative events and cross-marketing initiatives.
-- Recruited, mentored, and coordinated a team of 5 for seamless operations.
-- Earned Level 1 Sommelier certification
+**Oct. 2016 – Apr. 2020**
 
-## Skills
+* Supervised production operations in a safety-critical compressed-gas environment, maintaining strict quality and procedural standards.
+* Developed and maintained barcode and database processes to improve asset tracking and recovery.
+* Coordinated transportation and logistics across departments to improve operational efficiency.
+* Trained and supervised staff while maintaining a strong safety record and compliance with internal and regulatory requirements.
 
-#### Rapid Learning
+### City Spirits Specialty Wine & Liquor — Assistant Manager
 
-Every time I changed jobs, I made large pivots into entirely new sectors. This involved a lot of fast learning, which I thrive on! Between retail, database management, and investigations assistance, all of my positions have involved amassing and dispensing knowledge. This means I'm very aware of when I don't know something, and all the ways I can remedy that situation. I feel confident I can contribute well to any development project because of this.
+**Mar. 2013 – Aug. 2016**
 
-#### Communication & Conflict Resolution
+* Managed inventory, purchasing and day-to-day operations in a specialist retail environment.
+* Recruited, trained and coordinated a team of five employees.
+* Developed supplier relationships and coordinated collaborative events and promotions.
+* Earned Level 1 certification from the Wine & Spirit Education Trust.
 
-Retail work is all about convincing others, resolving conflicts, and ensuring good experiences for others. (Not necessarily in that order) This translates directly to communicating well with internal and external stakeholders, even in high-stress situations. At CDOR, I learned not just how to communicate well, but how to do so quickly. We had a < 2 min turnaround time for any written responses to enquiries, and I maintained a 99% information accuracy rating while staying in that time limit. This all adds up to mean I feel comfortable in almost any position on any team, facing inward or outward.
+### Freelance Graphic Designer & Artist
 
-#### Attention to Detail
+**Jan. 2009 – Sep. 2024**
 
-At US Welding, a miscalculation when filling containers could result in literal explosions. So I built a habit of triple checking every piece of my work at every step, which has stuck with me. At CDOR, the entire job was about report accuracy under pressure. And much of my work at Team Rex Games involved performing research on accessibility to ensure our visual products did not exclude anyone from enjoying our game. I had to predict problems before they arose. Looking ahead for potential issues and always having a general wariness has already served me well when coding and contributing to projects.
+* Delivered commissioned creative projects from initial requirements through to completion.
+* Managed client relationships, project scope, deadlines and budgets independently.
+* Developed strong communication and requirements-gathering skills through work with a wide range of clients.
 
 ## Education
 
-#### University of Colorado (Aug. 2009 - May 2015)
+### Makers Academy — Data Engineering Bootcamp
 
-- BFA - Portraiture
-- Participated in numerous art shows across Denver, CO
-- Awarded best in show for "Make Denver Beautiful" art campaign
+**Sep. 2023 – Jan. 2024**
 
-#### Wine & Spirit Education Trust (Nov. 2013)
+Intensive data engineering and software development programme covering:
 
-- Level 1 Sommelier Certification
+* Python and object-oriented programming
+* SQL and relational databases
+* Data pipelines and APIs
+* Test-driven development
+* MVC and domain-driven design
+* Git and version control
+* CI/CD
+* Agile development
+* Pair programming
+* AWS and cloud technologies
 
-## Hobbies
+### University of Colorado
 
-- Painting, Logic Puzzles, Digital Design, Custom PCs, Scale Model Making and Painting, Game Design (Physical and Digital)
+**Aug. 2009 – May 2015**
+
+**BFA, Portraiture**
+
+### Wine & Spirit Education Trust
+
+**Nov. 2013**
+
+**Level 1 Certification**
+
+## Selected Projects
+
+### Live Data Pipeline
+
+Built a live data pipeline capable of extracting information from **20 databases**, transforming the data and delivering it to a real-time dashboard with data freshness within approximately one second.
+
+**Technologies:** Python, Psycopg2, AWS Lambda, AWS API Gateway, AWS EventBridge
+
+### Magic: The Gathering Recommendation Tool
+
+Developed a data-driven recommendation tool that analyses Magic: The Gathering card data and provides recommendations based on card relationships, popularity and strategic characteristics.
+
+**Technologies:** Python, PostgreSQL, Pandas, SQLAlchemy, Flask, Django, TheFuzz, AWS
+
+## Key Strengths
+
+**Technical problem solving** — Enjoys breaking unfamiliar technical problems into manageable components, investigating issues systematically and learning the necessary tools to solve them.
+
+**Attention to detail** — Experienced in environments where inaccurate data or operational mistakes have significant consequences, with a strong focus on validation and reliability.
+
+**Rapid learning** — Successfully transitioned from creative and operational careers into data engineering, developing a broad technical skill set across software development, databases, cloud platforms and data engineering.
+
+**Collaboration** — Comfortable working independently while contributing to collaborative technical teams, communicating clearly with both technical and non-technical colleagues.
+
+**Pattern recognition** — Strong analytical and observational skills developed through data work, software development and years of creative practice.
